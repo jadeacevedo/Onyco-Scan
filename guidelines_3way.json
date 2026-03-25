@@ -1,0 +1,44 @@
+[
+  {
+    "class_group": "Acral_Melanoma",
+    "signal": "Hutchinson sign",
+    "description": "Pigment extending onto the periungual skin (cuticle).",
+    "risk": "Critical",
+    "recommendation": "Urgent dermatology referral for biopsy."
+  },
+  {
+    "class_group": "Acral_Melanoma",
+    "signal": "Longitudinal Melanonychia",
+    "description": "Irregular pigmented band >3mm, variegated colors, or widening proximally.",
+    "risk": "Critical",
+    "recommendation": "Dermoscopic evaluation required."
+  },
+  {
+    "class_group": "Healthy_Nail",
+    "signal": "Clear nail plate",
+    "description": "Smooth texture, uniform color, no pigmentation or dystrophy.",
+    "risk": "Low",
+    "recommendation": "Routine monitoring."
+  },
+  {
+    "class_group": "Other_Condition",
+    "signal": "Nail Clubbing",
+    "description": "Bulbous enlargement of fingertips with convex nail plate.",
+    "risk": "Moderate",
+    "recommendation": "Screen for cardiac or pulmonary causes."
+  },
+  {
+    "class_group": "Other_Condition",
+    "signal": "Nail Pitting",
+    "description": "Small depressions (ice-pick) on nail surface.",
+    "risk": "Low",
+    "recommendation": "Common in psoriasis or alopecia areata."
+  },
+  {
+    "class_group": "Other_Condition",
+    "signal": "Blue Finger",
+    "description": "Cyanotic discoloration.",
+    "risk": "High (Acute)",
+    "recommendation": "Check oxygen saturation and circulation immediately."
+  }
+]
